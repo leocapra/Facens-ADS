@@ -1,8 +1,8 @@
 
 print("Coloque apenas numero inteiros!")
-notaA = int(input("Digite sua primeira nota:"))
+notaA = float(input("Digite sua primeira nota:"))
 
-notaB = int(input("Digite sua segunda nota:"))
+notaB = float(input("Digite sua segunda nota:"))
 
 media = (notaA + notaB) / 2
 
