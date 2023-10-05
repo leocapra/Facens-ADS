@@ -10,4 +10,4 @@ aprovado = media >= 6 and notaA > 8
 
 print("Aluno aprovado:", aprovado)
 
-#Exercicio de operadores relacionais e operadores lógicos!
+#Exercicio de operadores relacionais e operadores lógicos!  
